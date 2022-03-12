@@ -1,0 +1,93 @@
+header {
+  background-color: crimson;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+
+h1 {
+  color: white;
+  font-family: Arial, Arial, sans-serif;
+  font-style: bold;
+  font-size: 32px;
+  text-align: left;
+}
+
+nav {
+  text-align: right;
+  background-color: gray;
+  color: white;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 16px;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+
+.link {
+  color: white;
+  text-align-last: right;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 16px;
+  font-style: bold;
+}
+
+#museum {
+  width: 1000;
+  height: 500;
+}
+
+#main {
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 14px;
+}
+
+#cover {
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 14px;
+}
+
+#museum_title {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: Arial, Arial, sans-serif;
+  font-style: bold;
+  font-size: 24px;
+}
+
+aside {
+  text-align: right;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 20px;
+  font-style: bold;
+}
+
+.small {
+  width: 275;
+  height:180;
+}
+
+footer {
+  font-family: Arial, Arial, sans-serif;
+  font-size: 14px;
+  color: white;
+  background-color: gray;
+  text-align: left;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
